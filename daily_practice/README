@@ -1,0 +1,14 @@
+# C/C++ Coding Portfolio
+
+Welcome to my C/C++ Coding Portfolio, a dedicated space where I demonstrate my programming expertise through daily practice and specialized projects focusing on financial analysis techniques such as calculating the efficient frontier and portfolio correlations. This repository serves as a testament to my commitment to mastering the complexities of C and C++ in practical, real-world applications.
+
+## Projects
+
+### Efficient Frontier Calculator
+This application leverages Modern Portfolio Theory (MPT) to calculate the efficient frontier for a set of investment assets, showcasing my ability to implement complex mathematical models and optimization algorithms in C/C++.
+
+### Portfolio Correlation Analyzer
+Developed to evaluate the correlation between various assets within a portfolio, this tool aids in understanding risk and diversification strategies, emphasizing my skills in statistical analysis and financial data processing.
+
+## Daily Practice
+Within the `daily_practice` folder, you'll find a plethora of exercises and mini-projects that I've tackled to refine my C/C++ skills. These range from fundamental syntax and control structures to advanced subjects like data structures, algorithms, and system programming.

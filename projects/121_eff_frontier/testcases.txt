@@ -1,0 +1,33 @@
+#error
+111.csv 2222.csv
+-m universe.csv correlation.csv
+-r universe.text correlation.csv
+universe.csv
+correlation.csv universe.csv
+correlation.csv universe.csv correlation.csv
+-r universe.csv correlation.csv correlation.csv
+
+universe_err.csv correlation.csv
+universe_err1.csv correlation.csv
+universe_err2.csv correlation.csv
+universe_err4.csv correlation.csv
+universe_err5.csv correlation.csv
+universe_err6.csv correlation.csv
+universe_err7.csv correlation.csv
+
+universe.csv correlation_err.csv
+universe.csv correlation_err1.csv
+universe.csv correlation_err2.csv
+universe.csv correlation_err3.csv
+universe.csv correlation_err4.csv
+universe.csv correlation_err6.csv
+universe.csv correlation_err7.csv
+universe.csv correlation_err8.csv
+universe.csv correlation_err9.csv
+universe.csv correlation_err10.csv
+
+#success
+universe.csv correlation.csv
+-r universe.csv correlation.csv
+universe_err3.csv correlation_err5.csv
+-r universe_err3.csv correlation_err5.csv
